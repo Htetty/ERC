@@ -1,0 +1,6 @@
+dataset/train/
+dataset/test/
+dataset/train.py
+
+__pycache__/
+*.pyc
